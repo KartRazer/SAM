@@ -17,7 +17,7 @@ namespace SAM
         public static string latestVersion { get; set; }
 
         private static readonly string updaterFileName = "Updater.exe";
-        private static readonly string latestUpdaterVersionUrl = "https://raw.githubusercontent.com/rex706/Updater/master/latest.txt";
+        private static readonly string latestUpdaterVersionUrl = "https://raw.githubusercontent.com/KartRazer/SAM/master/latest.txt?token=AG25AMOBFUDH5LT74HAKPRC7ASUYA";
 
         /// <summary>
         /// Check program for updates with the given text url.
